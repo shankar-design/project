@@ -10,7 +10,7 @@ public class Log4jSimpleApplication {
 		SpringApplication.run(Log4jSimpleApplication.class, args);
 		System.out.println("sp");
 		System.out.println("sp");
-		
+		System.out.println("sp");
 		
 	}
 
