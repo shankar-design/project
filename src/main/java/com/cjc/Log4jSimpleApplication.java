@@ -8,7 +8,7 @@ public class Log4jSimpleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Log4jSimpleApplication.class, args);
-		
+		System.out.println("sp");
 		
 		
 	}
